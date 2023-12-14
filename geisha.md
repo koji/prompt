@@ -1,4 +1,6 @@
-# prompt
+# Topic: Geisha
+
+## prompt
 ```
 “A photorealistic image of a beautiful Japanese geisha who is sitting on the ground surrounded by lightning bolts. She is wearing a red and gold kimono with a black obi, and her hair is styled traditionally with gold and red ornaments. Her face is blurred, and she stands against a backdrop of a traditional Japanese street scene. The lightning bolts, blue and white in color, seem to emanate from her hands.”
 ```
