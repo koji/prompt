@@ -1,4 +1,4 @@
-## purple super car
+## purple supercar
 
 ### result
 
@@ -13,5 +13,29 @@ https://github.com/koji/image-prompt/assets/474225/ab426f25-6100-47b4-af99-c69c0
 
 ### prompt
 ```
-A purple super car with a photoluminescent finish, parked in a darkened garage. The car's surface glows with a soft, ambient light, creating a mesmerizing visual effect. The garage's dim lighting enhances the photoluminescent glow, highlighting the car's sleek design.
+A purple supercar with a photoluminescent finish, parked in a darkened garage. The car's surface glows with a soft, ambient light, creating a mesmerizing visual effect. The garage's dim lighting enhances the photoluminescent glow, highlighting the car's sleek design.
 ```
+
+
+
+## Shibuya crossing
+
+### result
+
+
+
+
+
+
+https://github.com/koji/image-prompt/assets/474225/d240c771-2222-4e8b-8d16-c037b4f897eb
+
+
+
+### image
+none
+
+### prompt
+```
+Many people are crossing Shibuya crossing
+```
+
