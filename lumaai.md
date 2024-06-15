@@ -9,7 +9,7 @@ https://github.com/koji/image-prompt/assets/474225/ab426f25-6100-47b4-af99-c69c0
 
 
 ### image
-![_61ba6b6e-155d-41f3-b024-6ef6f19e3b02](https://github.com/koji/image-prompt/assets/474225/501392fb-43d5-49d8-8cb3-60a315849114)
+![_b8388f52-78f4-4007-aff4-e820f1d919c4](https://github.com/koji/image-prompt/assets/474225/fefd3c20-4f69-4643-9ecc-5aa762283c35)
 
 ### prompt
 ```
